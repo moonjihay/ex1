@@ -255,7 +255,7 @@ C#|cs|Java|java
 C++|cpp|JavaScript|javascript
 CSS|css|PHP|php
 Diff|diff|Perl|perl
-HTML, XML|Python|python
+HTML, XML|html|Python|python
 HTTP|http|Ruby|ruby
 Ini|ini|SQL|sql
 
