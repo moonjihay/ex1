@@ -169,7 +169,7 @@ ex)
 
 ex)
 
-![햄스터](/text.jpg)
+![햄스터](markdoun-img/text.jpg)
 ![드위프핸스터](https://cdn.pixabay.com/photo/2016/10/26/22/00/hamster-1772742_960_720.jpg)
 
 <img src="text.jpg" width="200" height="200" />
