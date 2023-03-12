@@ -218,10 +218,10 @@ header .header-bottom .sub-bg {
     z-index: -1;
 }
 
-header .header-bottom .sub.mouse-up , 
+/*header .header-bottom .sub.mouse-up , 
 header .header-bottom .sub-bg.mouse-up {
-    /*height: 250px;*/
-}
+    height: 250px;
+}*/
 
 /* //header */
 
