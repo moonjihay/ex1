@@ -105,7 +105,7 @@ header .header-botom .gnb .depth01 .depth01-item .depth01-link:hover {
   border-bottom: 3px #fdd017 solid;
 }
 header .header-botom .gnb .depth01 .depth01-item .sub {
-  display: none;
+  /*display: none;*/
   font-weight: 400;
 }
 header .header-botom .search fieldset {
@@ -132,7 +132,7 @@ header .header-botom .search .search-button {
   width: 16px;
   height: 16px;
   border: 0;
-  background: url(/img/sch.png);
+  background: url(../img/sch.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 16px 16px;
@@ -167,13 +167,13 @@ header .header-botom .search .search-button {
   height: 380px;
 }
 .intro .venix {
-  background: url(/img/main-mid1-1.png);
+  background: url(../img/main-mid1-1.png);
 }
 .intro .hausbrandt {
-  background: url(/img/main-mid2-1.png);
+  background: url(../img/main-mid2-1.png);
 }
 .intro .rental {
-  background: url(/img/main-mid3-1.png);
+  background: url(../img/main-mid3-1.png);
 }
 .intro .box .box-wrap {
   padding-top: 62px;
@@ -228,7 +228,7 @@ header .header-botom .search .search-button {
 
 .best-seller .best-bg {
   margin-top: 190px;
-  background: url(/img/bestseller-bg.png);
+  background: url(../img/bestseller-bg.png);
   height: 711px;
 }
 .best-seller .section-title {
@@ -353,7 +353,7 @@ header .header-botom .search .search-button {
 
 .event .event-bg {
   margin-top: 100px;
-  background: url(/img/cafeTmall-Event.png);
+  background: url(../img/cafeTmall-Event.png);
   height: 580px;
   position: relative;
 }
